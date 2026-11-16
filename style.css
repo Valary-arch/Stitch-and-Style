@@ -23,3 +23,30 @@
         max-width: 115px;
     }
 }
+
+
+height: 45px !important;
+    max-width: 85px !important;
+    object-fit: contain !important;
+}
+
+.footer .footer-brand img.footer-logo {
+    display: block !important;
+    width: 95px !important;
+    height: 45px !important;
+    max-width: 95px !important;
+    object-fit: contain !important;
+}
+
+.site-header .brand {
+    display: flex;
+    align-items: center;
+}
+
+@media (max-width: 680px) {
+    .site-header .brand img.site-logo {
+        width: 75px !important;
+        height: 38px !important;
+        max-width: 75px !important;
+    }
+}
