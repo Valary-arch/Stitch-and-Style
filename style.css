@@ -2,27 +2,27 @@
 
 .site-header .brand img.site-logo {
     display: block;
-    width: 80px;
-    height: 40px;
-    max-width: 80px;
-    max-height: 40px;
+    width: 105px;
+    height: 50px;
+    max-width: 105px;
+    max-height: 50px;
     object-fit: contain;
 }
 
 .footer .footer-brand img.footer-logo {
     display: block;
-    width: 90px;
-    height: 45px;
-    max-width: 90px;
-    max-height: 45px;
+    width: 115px;
+    height: 55px;
+    max-width: 115px;
+    max-height: 55px;
     object-fit: contain;
 }
 
 @media (max-width: 680px) {
     .site-header .brand img.site-logo {
-        width: 70px;
-        height: 35px;
-        max-width: 70px;
-        max-height: 35px;
+        width: 90px;
+        height: 43px;
+        max-width: 90px;
+        max-height: 43px;
     }
 }
