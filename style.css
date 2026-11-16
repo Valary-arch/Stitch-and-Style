@@ -50,3 +50,21 @@ height: 45px !important;
         max-width: 75px !important;
     }
 }
+/* FINAL STITCH AND STYLE LOGO FIX */
+img.site-logo {
+    display: block !important;
+    width: 90px !important;
+    height: 45px !important;
+    max-width: 90px !important;
+    max-height: 45px !important;
+    object-fit: contain !important;
+}
+
+img.footer-logo {
+    display: block !important;
+    width: 100px !important;
+    height: 45px !important;
+    max-width: 100px !important;
+    max-height: 45px !important;
+    object-fit: contain !important;
+}
