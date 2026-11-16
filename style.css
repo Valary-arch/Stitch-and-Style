@@ -26,3 +26,20 @@
         max-height: 43px;
     }
 }
+
+
+/* STITCH & STYLE LOGO CONTROL */
+
+.site-header .brand img {
+    width: 110px !important;
+    height: 50px !important;
+    max-width: 110px !important;
+    object-fit: contain !important;
+}
+
+.footer .footer-brand img {
+    width: 120px !important;
+    height: 55px !important;
+    max-width: 120px !important;
+    object-fit: contain !important;
+}
